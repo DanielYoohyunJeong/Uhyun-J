@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uhyun-J
+- 👋 Hi, I’m @Uhyun
 - 👀 I’m interested in NLP & CV
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
